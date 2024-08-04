@@ -1,0 +1,4 @@
+pymongo
+langchain
+langsmith
+python-dotenv
